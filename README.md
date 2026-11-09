@@ -1,7 +1,7 @@
 # Xin chào, mình là Tuấn Minh 👋
 
 🎓 Developer mới ra trường, đang đi sâu vào **LLM Engineering** — xây hệ thống AI
-có kiểm soát chất lượng bằng đo lường, không vibe-code.
+có kiểm soát chất lượng bằng đo lường.
 
 🛠️ **Stack chính**: Python (FastAPI) · TypeScript/React · RAG (ChromaDB, embedding,
 chunking tự viết) · Gemini API (structured output) · pytest · C#, PL/SQL
@@ -17,4 +17,4 @@ AI phân tích CV với Job Description: chấm điểm 4 trục, đối chiếu
   chứng minh prompt bất lực.
 - 61 unit test (coverage 91%) chạy offline bằng fake embedding tất định.
 
-📫 Liên hệ: hkpotatoman@gmail.com
+📫 Liên hệ: vutuanminh29102004@gmail.com
